@@ -1,4 +1,4 @@
-# 🛒 RedStore – Modern E-Commerce Website
+# 🛒 Modern E-Commerce Website
 
 RedStore is a fully responsive and modern e-commerce website built using **HTML, CSS, and JavaScript**.  
 This project focuses on clean UI design, responsive layouts, and interactive user experience without using any external frameworks.
@@ -67,7 +67,7 @@ The website is fully responsive and optimized for:
 - 💻 Tablets
 - 🖥 Desktop Screens
 
-Live Demo =>
+Live Demo =>  https://mohsinkhan4050.github.io/FrontEnd-Website-Development-Project-7/
 
 
 ## ⭐ Support
